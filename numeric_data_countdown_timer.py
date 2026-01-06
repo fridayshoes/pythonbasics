@@ -6,3 +6,11 @@ while timer > 0:
 else:
   print("Timer complete")
 
+# Output
+
+# Time left: 5
+# Time left: 4
+# Time left: 3
+# Time left: 2
+# Time left: 1
+# Timer complete
