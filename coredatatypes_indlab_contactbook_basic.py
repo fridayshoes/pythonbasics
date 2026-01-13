@@ -100,14 +100,3 @@ delete_contact(contacts, name)
 
 # 6 Print the final contacts dictionary to see all changes
 print(contacts)
-       
-<<<<<<< HEAD
-    
-
-
-
-# name = input(("Type a contact name to delete: "))
-# delete_contact(contacts, name)
-
-=======
->>>>>>> 90055c2 (Basic Contact Book, add, lookup and remove contacts)
